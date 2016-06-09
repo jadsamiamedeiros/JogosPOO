@@ -5,7 +5,7 @@ using namespace std;
 
 int main(int argc, char* args[])
 {
-	bool sair = false;		
+	bool sair = false;		//variavel considerada de tipo booleana
 	string jog1;	
 	string jog2;			// Ta declarando as variaveis de acordo com seu tipo
 	int vida1 = 20;			//algumas recebem um tipo de valor
