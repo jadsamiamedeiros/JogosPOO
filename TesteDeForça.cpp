@@ -20,8 +20,7 @@ int main(int argc, char* args[])
 	cout << "Digite o nome do jogador 2: " << endl; 
 	cin >> jog2;
 
-	while (sair == false) //laço/comando
-	enquanto, que se encontra a variavel booleano que ao ser falso finaliza o laço de repetição 
+	while (sair == false) //laço enquanto, que se encontra a variavel booleano que ao ser falso finaliza o laço de repetição 
 	{
 		cout << " o                  o" << endl; // desenhos que vão ser imprimidos na tela e ao mesmo tempo dá uma quebra de linha
 		cout << ".T./              \\.T." << endl;
